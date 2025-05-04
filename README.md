@@ -1,5 +1,6 @@
 # -PRODIGY_ML_01-
 House Price Prediction using Linear Regression
+
 This project was completed as part of my Machine Learning internship at Prodigy InfoTech.
 It focuses on building a linear regression model to predict house prices based on key features like square footage, number of bedrooms, and bathrooms.
 
